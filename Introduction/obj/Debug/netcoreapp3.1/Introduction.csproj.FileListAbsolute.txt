@@ -1,0 +1,14 @@
+C:\Users\javid\OneDrive\Desktop\P130\C#\Intro\Introduction\Introduction\bin\Debug\netcoreapp3.1\Introduction.exe
+C:\Users\javid\OneDrive\Desktop\P130\C#\Intro\Introduction\Introduction\bin\Debug\netcoreapp3.1\Introduction.deps.json
+C:\Users\javid\OneDrive\Desktop\P130\C#\Intro\Introduction\Introduction\bin\Debug\netcoreapp3.1\Introduction.runtimeconfig.json
+C:\Users\javid\OneDrive\Desktop\P130\C#\Intro\Introduction\Introduction\bin\Debug\netcoreapp3.1\Introduction.runtimeconfig.dev.json
+C:\Users\javid\OneDrive\Desktop\P130\C#\Intro\Introduction\Introduction\bin\Debug\netcoreapp3.1\Introduction.dll
+C:\Users\javid\OneDrive\Desktop\P130\C#\Intro\Introduction\Introduction\bin\Debug\netcoreapp3.1\Introduction.pdb
+C:\Users\javid\OneDrive\Desktop\P130\C#\Intro\Introduction\Introduction\obj\Debug\netcoreapp3.1\Introduction.csproj.AssemblyReference.cache
+C:\Users\javid\OneDrive\Desktop\P130\C#\Intro\Introduction\Introduction\obj\Debug\netcoreapp3.1\Introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javid\OneDrive\Desktop\P130\C#\Intro\Introduction\Introduction\obj\Debug\netcoreapp3.1\Introduction.AssemblyInfoInputs.cache
+C:\Users\javid\OneDrive\Desktop\P130\C#\Intro\Introduction\Introduction\obj\Debug\netcoreapp3.1\Introduction.AssemblyInfo.cs
+C:\Users\javid\OneDrive\Desktop\P130\C#\Intro\Introduction\Introduction\obj\Debug\netcoreapp3.1\Introduction.csproj.CoreCompileInputs.cache
+C:\Users\javid\OneDrive\Desktop\P130\C#\Intro\Introduction\Introduction\obj\Debug\netcoreapp3.1\Introduction.dll
+C:\Users\javid\OneDrive\Desktop\P130\C#\Intro\Introduction\Introduction\obj\Debug\netcoreapp3.1\Introduction.pdb
+C:\Users\javid\OneDrive\Desktop\P130\C#\Intro\Introduction\Introduction\obj\Debug\netcoreapp3.1\Introduction.genruntimeconfig.cache
